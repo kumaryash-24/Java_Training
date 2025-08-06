@@ -1,4 +1,4 @@
-// Q). 8)
+ // Q). 8)
 public class FloydTriangle {
     public static void main(String[] args) {
         int number = 1;  
@@ -12,6 +12,7 @@ public class FloydTriangle {
         }
     }
 }
+
 
 
 
