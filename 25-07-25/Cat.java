@@ -1,7 +1,7 @@
 // Cat.java
 
 public class Cat extends Animal {
-
+        
     public Cat() {
         super("Cat");
     }
@@ -11,3 +11,4 @@ public class Cat extends Animal {
         System.out.println("Cat meows");
     }
 }
+
