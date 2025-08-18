@@ -10,7 +10,7 @@
 
 ---
 
-## 📚 What This Repo Covers
+## 📚 What This Repo Covers         
 
 - ✅ Java Basics: Syntax, data types, loops, and conditionals      
 - ✅ Core Java: OOP concepts, collections, exceptions, multithreading
