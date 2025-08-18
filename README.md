@@ -12,7 +12,7 @@
 
 ## 📚 What This Repo Covers
 
-- ✅ Java Basics: Syntax, data types, loops, and conditionals
+- ✅ Java Basics: Syntax, data types, loops, and conditionals      
 - ✅ Core Java: OOP concepts, collections, exceptions, multithreading
 - ✅ Spring Boot: REST API's
 - ✅ Projects: Hands-on practical applications to test your knowledge
