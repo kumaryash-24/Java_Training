@@ -8,10 +8,11 @@ public class FloydTriangle {
                 System.out.print(number + " ");                   
                 number++;               
             }
-            System.out.println();
+            System.out.println();             
         }
     }
 }
+
 
 
 
