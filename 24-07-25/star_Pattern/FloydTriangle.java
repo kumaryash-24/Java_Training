@@ -9,9 +9,10 @@ public class FloydTriangle {
                 number++;               
             }
             System.out.println();             
-        }
+        }                 
     }
 }
+
 
 
 
