@@ -6,12 +6,13 @@ public class Cat extends Animal {
         super("Cat");
     }                  
                                                     
-                    
+                               
     public void sound() {
         System.out.println("Cat meows");                                                                  
     }
 }
               
+
 
 
 
