@@ -9,7 +9,8 @@ public class LeftTriangle {
                 System.out.print("*");
             }               
             System.out.println();
-        }
+        }                   
     }
 }
+
 
