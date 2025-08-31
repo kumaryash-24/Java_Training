@@ -9,7 +9,7 @@
 </p>
 
 ---                                    
-                     
+                                    
 ## 📚 What This Repo Covers                                                                      
 
 - ✅ Java Basics: Syntax, data types, loops, and conditionals                                
