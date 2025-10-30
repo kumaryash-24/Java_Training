@@ -1,9 +1,9 @@
- // Cat.java
+    // Cat.java
 
 public class Cat extends Animal {
         
     public Cat() {
-        super("Cat");
+        super("Cat"); 
     }                  
                                                     
                                           
@@ -12,6 +12,7 @@ public class Cat extends Animal {
     }                           
 }
               
+
 
 
 
