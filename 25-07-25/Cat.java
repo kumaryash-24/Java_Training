@@ -2,7 +2,7 @@
 
 public class Cat extends Animal {
         
-    public Cat() {
+    public Cat() {   
         super("Cat"); 
     }                    
                                                         
@@ -12,6 +12,7 @@ public class Cat extends Animal {
     }                           
 }
               
+
 
 
 
